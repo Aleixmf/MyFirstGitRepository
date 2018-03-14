@@ -9,4 +9,8 @@ public class GitProject {
 		this.param1 = param1;
 		this.param2 = param2;
 	}
+	
+	private void showMessage() {
+		System.out.println("Message from mariadumont");
+	}
 }
